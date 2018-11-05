@@ -1,0 +1,21 @@
+title: Hyde
+email: hyde@justtryingtogetthroughlife.crime
+description: >-
+  Hyde is a basic jekyll starter template. 
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+gems: [bourbon]
+
+# Exclude from processing.
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - node_modules
+ - vendor/bundle/
+ - vendor/cache/
+ - vendor/gems/
+ - vendor/ruby/
